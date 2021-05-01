@@ -130,3 +130,6 @@ dmypy.json
 
 # Old files
 .archive/
+
+# PyCharm Artifacts
+.idea/
