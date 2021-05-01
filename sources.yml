@@ -1,8 +1,0 @@
----
-data: GHS_POP_E2015_GLOBE_R2019A_54009_1K_V1_0.tif
-source: https://ghsl.jrc.ec.europa.eu/download.php?ds=pop
-citation: >+
-  Corbane, Christina; Florczyk, Aneta; Pesaresi, Martino; Politis, Panagiotis; Syrris, Vasileios (2018): GHS built-up
-  grid, derived from Landsat, multitemporal (1975-1990-2000-2014), R2018A. European Commission, Joint
-  Research Centre (JRC) doi:10.2905/jrc-ghsl-10007 PID: http://data.europa.eu/89h/jrc-ghsl-10007
-
