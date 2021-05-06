@@ -1,0 +1,25 @@
+---
+data: TPWR.xlsx
+description: City of Tacoma, Department of Public Utilities, Light Division
+source: https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
+
+---
+data: TAL.xlsx
+description: City of Tallahassee
+source: https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
+
+---
+data: EPE.xlsx
+description: El Paso Electric Company
+source: https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
+
+---
+data: GVL.xlsx
+description: Gainesville Regional Utilities	
+source: https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
+
+---
+data: LDWP.xlsx
+description: Los Angeles Department of Water and Power	
+source: https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
+
